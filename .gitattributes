@@ -2,4 +2,3 @@
 *.sql linguist-language=sql
 
 
-*.glyphs linguist-language=OpenStep-Property-List
